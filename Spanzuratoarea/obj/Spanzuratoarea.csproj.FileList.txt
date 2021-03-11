@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Spanzuratoarea.Form1.resources
+obj\Release\Spanzuratoarea.csproj.GenerateResource.Cache
+bin\Release\Spanzuratoarea.exe
+bin\Release\Spanzuratoarea.pdb
+obj\Release\Spanzuratoarea.exe
+obj\Release\Spanzuratoarea.pdb
+bin\Debug\Spanzuratoarea.exe
+bin\Debug\Spanzuratoarea.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Spanzuratoarea.Form1.resources
+obj\Debug\Spanzuratoarea.csproj.GenerateResource.Cache
+obj\Debug\Spanzuratoarea.exe
+obj\Debug\Spanzuratoarea.pdb

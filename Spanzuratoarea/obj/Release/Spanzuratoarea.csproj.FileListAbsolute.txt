@@ -1,0 +1,41 @@
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.exe
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.pdb
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.pdb
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Form1.resources
+C:\Users\elev\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.GenerateResource.Cache
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.exe
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.pdb
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.pdb
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csprojResolveAssemblyReference.cache
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Form1.resources
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Properties.Resources.resources
+C:\Users\elev\Desktop\Gheorghita\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.GenerateResource.Cache
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.pdb
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Form1.resources
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Properties.Resources.resources
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.GenerateResource.cache
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.exe
+C:\Users\Poasca Stefan\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.pdb
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.pdb
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Form1.resources
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Properties.Resources.resources
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.GenerateResource.cache
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.exe
+C:\Users\Dragos\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.pdb
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe.config
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.exe
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\bin\Release\Spanzuratoarea.pdb
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csprojAssemblyReference.cache
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Form1.resources
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.Properties.Resources.resources
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.GenerateResource.cache
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.csproj.CoreCompileInputs.cache
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.exe
+C:\Users\Sabina\Desktop\Spanzuratoarea\Spanzuratoarea\obj\Release\Spanzuratoarea.pdb
